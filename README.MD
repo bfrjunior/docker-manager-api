@@ -103,7 +103,7 @@ public class DockerContainersController {
 
 Desenvolvido por **Fernando Rocha**  
 📍 Fortaleza - CE  
-🔗 [LinkedIn](https://www.linkedin.com/in/fernandorocha)
+🔗 [LinkedIn](https://www.linkedin.com/in/fernando-rocha-962465200/)
 
 ---
 
